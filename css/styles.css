@@ -1,0 +1,286 @@
+.total{
+    background-image: url(../img/pic3.png);
+    height: 130vh;
+    background-size: cover;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.top ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.top ul li {
+    padding-left: 30px;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-top{
+    background-color: hsl(204, 100%, 50%);
+    padding: 15px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 10px;
+}
+.mine{
+    font-size: 60px ;
+    margin: 30px;
+    padding-top: 200px;
+}
+.file{
+    margin: 30px;
+    font-size: 25px;
+}
+.tin{
+    background-color: hsl(240, 100%, 50%);
+    font-size: 20px;
+    margin: 30px;
+    padding: 15px;
+    border: 0;
+    border-radius: 10px;
+}
+.nothing{
+    font-size: 30px;
+    background-color: rgb(149, 208, 232);
+    padding: 20px;
+}
+.book{
+    font-size: 30px;
+    background-color: rgb(12, 179, 245);
+    padding: 20px;
+}
+.let{
+    font-size: 30px;
+    background-color: rgb(88, 189, 228);
+    padding: 20px;
+}
+.btn1{
+    background-color: rgb(149, 208, 232);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    border-color: white;
+}
+.btn2{
+     background-color: rgb(12, 179, 245);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    border-color: white;
+}
+.btn3{
+     background-color: rgb(88, 189, 228);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    border-color: white;
+}
+.server{
+    display: flex;
+    margin-top: 150px;
+}
+.sort{
+    background-color: white;
+    margin-top: 400px;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.home{
+    font-size: 20px;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.timeline{
+    font-size: 40px;
+    margin: 20px;
+}
+.run{
+    font-size: 20px;
+    margin: 30px;
+    justify-content: space-between;
+
+}
+.pix{
+    position: absolute;
+}
+
+.pix2 {
+    position: relative;
+    top: 70px;
+    left: 150px;
+
+}
+.web{
+    font-size: 25px;
+    margin: 30px;
+}
+
+.web ul {
+    list-style: disc;
+}
+
+.care{
+    padding: 15px;
+    margin: 40px;
+    border: 1px solid rgb(8, 8, 237);
+    font-size: 15px;
+    background-color: transparent;
+    color: rgb(8, 8, 237);
+    border-radius: 5px;
+}
+.view{
+    margin-left: 250px;
+}
+
+.game{
+    margin-top: 50px;
+    background-color: rgb(223, 232, 232);
+   
+}
+.number{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 70px;
+}
+.beg{
+    margin: 20px;
+    font-size: 22px;
+    text-align: center;
+}
+.screen{
+     display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+   margin: 50px;
+   flex-wrap: wrap;
+   font-size: 20px;
+}
+.seperate{
+    margin-top: 30px;
+}
+.coin{
+    margin: 20px;
+}
+.domin{
+    padding-top: 20px;
+}
+.code{
+  padding-bottom: 10px;
+}
+
+.treat{
+   
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 30px;
+    background-color: azure;
+    align-content: space-between;
+    
+}
+
+.flex {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.create ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.create ul li {
+    padding-left: 120px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.breach{
+    font-size: 20px;
+    margin: 20px;
+    margin: 50px;
+    margin-top: 200px;
+}
+.commit img{
+    width: 600px;
+}
+.main{
+    margin-bottom: 30px;
+}
+.doctors{
+
+    justify-content: space-between;
+    align-content: space-between;
+}
+.method{
+    display: flex;
+    justify-content: space-between;
+
+}
+.project{
+    font-size: 50px;
+    margin: 30px;
+}
+.add{
+    margin-left: 30px;
+}
+.status{
+    font-size: 20px;
+    padding-top: 150px;
+    display: flex;
+    padding: 50px;
+    
+}
+.more{
+    padding: 100px;
+    background-color: rgb(192, 236, 236);
+    border-left: 40px;
+    width: 50%;
+}
+.virus{
+    padding: 100px;
+    background-color: rgb(37, 80, 80);
+    width: 50%;
+}
+.btn-number{
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 15px;
+    background-color: rgb(192, 236, 236);
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+}
+.btn-number1{
+    background-color:rgb(37, 80, 80) ;
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+}
+
